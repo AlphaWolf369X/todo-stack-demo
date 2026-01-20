@@ -1,6 +1,6 @@
 Full-Stack To-Do Application
 A minimal but working todo app stack.
-Designed to demonstrate end-to-end ownership— from schema to deployment.
+Designed to demonstrate end-to-end ownership, from schema to deployment.
 Tech Stack
 
 Backend – Node.js, Express
